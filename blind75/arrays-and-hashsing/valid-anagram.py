@@ -7,9 +7,7 @@ class Solution:
             return False
 
 
-# ----------------------------
 # Test code
-# ----------------------------
 if __name__ == "__main__":
     solution = Solution()
 
